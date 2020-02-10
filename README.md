@@ -1,8 +1,6 @@
 # rain_animation
 Blade Runner Inspired CSS Animation 
 
-# Gamma - a word of the day application 
-
 ## Functionality: 
 
 * This is more so art than something of functionality. This is a simple animation using CSS Key-frames. I plan on adding more animations to this repo just for organization reasons
