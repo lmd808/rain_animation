@@ -22,7 +22,7 @@ Blade Runner Inspired CSS Animation
 * Repo: [Git hub Repo](https://github.com/lmd808/rain_animation).
 * Deployed [Deployed Version App](https://lmd808.github.io/rain_animation/).
 
-# HomePage and Quick Site Demo:  
+## Animation Demo: (Gif degrades quality)  
 
 ![Rain Animation](./images/demo1.gif)
 
